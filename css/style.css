@@ -1,0 +1,102 @@
+/* for mobile responsiveness */
+@media (max-width: 767px) {   }
+
+/* for tab responsiveness */
+@media (max-width: 1200px) and (min-width: 767px) {  }
+
+/* for desktop responsiveness */
+@media (min-width: 1200px){  }
+
+
+/*
+Website Owner: Saif
+Website Link: www.saif-rahman.ccom/skype
+Owner Email: saifu25saif@gmail.com
+Owner Phone: +880-1816-120934
+*/
+
+img{
+    height: 100px;
+    width: 100px;
+}
+.upper {
+    color: white;
+    background: white;
+    margin-top: 20px;
+    padding: 10px;
+    border: 5px solid grey;
+}
+
+.upper1 {
+    color: white;
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid grey;
+    border-radius: 300px;
+}
+
+.upper2 {
+    color: white;
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid grey;
+    border-radius: 500px;
+}
+
+.upper3 {
+    color: white;
+    background: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 5px solid grey;
+    border-radius: 200px;
+}
+.middle> h4{
+    margin-top: 20px;
+    background: #EFE3B1;
+    font-size: 30px;
+    color: #FBC309;
+    margin-left: 200px;
+    padding-top: 50px; padding-bottom: 50px;
+    border: 5px solid #FBC309;
+}
+
+.lower{
+    margin-top: 10px; 
+}
+
+h4{
+    border: 5px solid #25B34C;
+    background: #B6E51C;
+    font-size: 30px;
+    height: 150px;
+    color: #25B34C;
+    padding: 50px;
+}
+.lower1{
+    border: 5px solid #25B34C;
+    background: #B6E51C;
+    height: 200px;
+    color: #25B34C;
+    padding-top: 10px;
+    padding-left: 100px; padding-right: 100px;
+    border-radius: 10px;
+}
+
+.lower2{
+    border: 5px solid #25B34C;
+    background: #B6E51C;
+    height: 200px;
+    color: #25B34C;
+    padding-top: 10px;
+     padding-left: 100px; padding-right: 100px;
+    border-radius: 10px;
+}
